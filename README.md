@@ -12,6 +12,7 @@ To set up and run this project, ensure you have the following installed:
   - Class Designer (for project structure visualization)
 
 - **MySQL Server** and **MySQL Workbench**: Both can be downloaded via the [MySQL Installer](https://dev.mysql.com/downloads/installer/).
+  - During installation, **choose the "Full" setup type** to ensure all necessary components are installed.
 
 - **MySQL Connector Libraries**:
   - [MySQL Connector/C++](https://dev.mysql.com/downloads/connector/cpp/)
@@ -24,7 +25,8 @@ To set up and run this project, ensure you have the following installed:
    - During installation, select **Desktop development with C++** and enable CLI and Class Designer options.
 
 2. **MySQL Installer**: [Download here](https://dev.mysql.com/downloads/installer/)
-   - Install MySQL Server, MySQL Workbench, and required connectors (MySQL Connector/C++ and MySQL Connector/NET).
+   - When prompted, **choose the "Full" setup type** to ensure that MySQL Server, MySQL Workbench, and all required connectors are installed.
+   - Make sure to install **MySQL Server**, **MySQL Workbench**, and the required connectors (MySQL Connector/C++ and MySQL Connector/NET).
 
 ### 2. Set Up the MySQL Database in MySQL Workbench
 1. **Open MySQL Workbench** and connect to your MySQL Server instance.
@@ -53,9 +55,12 @@ Choose one of the following options:
    - Click **Start** (or press `F5`) to run the application directly from Visual Studio.
 
 ## Project Structure
+The following is the folder structure of the project:
+
+```plaintext
 CRUDSample/
 ├── database_backup.sql       # SQL script for database schema and sample data
-├──CRUDsample/
+├── CRUDSsample/
 │   ├── *.cpp                     # C++ source files
 │   └── *.h                       # C++ header files
 ├── Release/
