@@ -1,0 +1,5 @@
+C:\Users\venza\source\repos\CRUDsample\CRUDsample\x64\Debug\CRUDsample.vcxproj.AssemblyReference.cache
+C:\Users\venza\source\repos\CRUDsample\CRUDsample\x64\Debug\CRUDsample.MyForm.resources
+C:\Users\venza\source\repos\CRUDsample\CRUDsample\x64\Debug\CRUDsample.vcxproj.GenerateResource.cache
+C:\Users\venza\source\repos\CRUDsample\CRUDsample\x64\Debug\CRUDsamp.978518E5.Up2Date
+C:\Users\venza\source\repos\CRUDsample\CRUDsample\x64\Debug\CRUDsample.ProductTableForm.resources

@@ -1,0 +1,48 @@
+﻿  MyForm.cpp
+C:\Users\venza\source\repos\CRUDsample\CRUDsample\ProductTableForm.h(346,22): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\venza\source\repos\CRUDsample\CRUDsample\ProductTableForm.h(389,21): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\venza\source\repos\CRUDsample\CRUDsample\ProductTableForm.h(413,21): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\venza\source\repos\CRUDsample\CRUDsample\ProductTableForm.h(434,21): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\venza\source\repos\CRUDsample\CRUDsample\ProductTableForm.h(459,21): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\venza\source\repos\CRUDsample\CRUDsample\MyForm.h(266,21): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\venza\source\repos\CRUDsample\CRUDsample\MyForm.h(285,35): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\venza\source\repos\CRUDsample\CRUDsample\MyForm.h(287,21): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\venza\source\repos\CRUDsample\CRUDsample\MyForm.h(322,22): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'MyForm.cpp')
+  
+  ProductTableForm.cpp
+C:\Users\venza\source\repos\CRUDsample\CRUDsample\ProductTableForm.h(346,22): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'ProductTableForm.cpp')
+  
+C:\Users\venza\source\repos\CRUDsample\CRUDsample\ProductTableForm.h(389,21): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'ProductTableForm.cpp')
+  
+C:\Users\venza\source\repos\CRUDsample\CRUDsample\ProductTableForm.h(413,21): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'ProductTableForm.cpp')
+  
+C:\Users\venza\source\repos\CRUDsample\CRUDsample\ProductTableForm.h(434,21): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'ProductTableForm.cpp')
+  
+C:\Users\venza\source\repos\CRUDsample\CRUDsample\ProductTableForm.h(459,21): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'ProductTableForm.cpp')
+  
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CRUDsample.vcxproj -> C:\Users\venza\source\repos\CRUDsample\x64\Release\CRUDsample.exe
